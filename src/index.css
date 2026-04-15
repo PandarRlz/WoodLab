@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Tu fondo oscuro para que no se vea blanco */
+body {
+  margin: 0;
+  background-color: #1a1a1a;
+  color: white;
+}
